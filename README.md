@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astridlujo
-- 👀 I’m a music nerd 🎹 and sushi Lover 🍣 
-- 💞️ I’m a Software Engineer I @ J.B. Hunt 📱 
+- I’m a music nerd 🎹 and sushi Lover 🍣 
+- I’m a Software Engineer I @ J.B. Hunt 📱 
 - I’m currently improving my React and React Native skills 💻 
 - 📫 You can reach me at astridlujo@gmail.com or in LinkedIn https://www.linkedin.com/in/astridlujo/
 
